@@ -64,36 +64,37 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MoveObject.cs" />
     <Compile Include="Assets\Scripts\OpenDoor.cs" />
+    <Compile Include="Assets\Scripts\Radar.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogicFree.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControlFree.cs" />
     <None Include="Assets\Supercyan Character Pack Free Sample\Shaders\FreeCelShader.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise1/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>F:/Unity_Hub/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
