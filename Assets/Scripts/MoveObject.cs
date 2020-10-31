@@ -15,7 +15,7 @@ public class MoveObject : MonoBehaviour {
                                  new Vector3 ( -85, 0, -3 )};
 
     public float vechicleSpeed = 0.25f;
-    public float pedestrianSpeed = 0.1f;
+    public float pedestrianSpeed = 0.06f;
 
     // Update is called once per frame
     void Update() {

@@ -62,13 +62,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MSLaser\BasicController.cs" />
+    <Compile Include="Assets\MSLaser\ThrowObject.cs" />
+    <Compile Include="Assets\Scripts\MouseAim.cs" />
     <Compile Include="Assets\Scripts\MoveObject.cs" />
     <Compile Include="Assets\Scripts\OpenDoor.cs" />
+    <Compile Include="Assets\Scripts\PickUpWeapon.cs" />
     <Compile Include="Assets\Scripts\Radar.cs" />
-    <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogicFree.cs" />
-    <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\DemoFree.cs" />
-    <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControlFree.cs" />
-    <None Include="Assets\Supercyan Character Pack Free Sample\Shaders\FreeCelShader.shader" />
+    <Compile Include="Assets\Scripts\RotateWheel.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/Unity/Projects/3D_Course_2/Exercise2/Cartoon Low Poly City Pack Lite/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
